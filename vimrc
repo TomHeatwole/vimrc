@@ -12,3 +12,4 @@ set softtabstop=4
 
 " For cs4620 let .cup files look like java:
 autocmd BufNewFile,BufRead *.cup set syntax=java
+autocmd BufNewFile,BufRead *.hbs set syntax=html
